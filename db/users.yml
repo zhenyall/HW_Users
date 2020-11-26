@@ -1,0 +1,9 @@
+---
+- :id: '1'
+  :email: 'admin@email.com'
+  :password: 'admin!'
+  :role: 'admin'
+- :id: '2'
+  :email: 'superadmin@email.com'
+  :password: 'superadmin!'
+  :role: 'superadmin'
